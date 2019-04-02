@@ -3,7 +3,7 @@ https://www.thingiverse.com/thing:2533064
 
 # Requirements
 - Windows users must install WinCompose for the french characters. https://github.com/samhocevar/wincompose
-- Macos needs to switch keyboard language to Unicode Hex Input to get all of the french accents in the macos layout.
+- Macos users must switch keyboard language to Unicode Hex Input in order to use the french accents.
 
 # Layout
 - For layout specifications, check keymap.c
