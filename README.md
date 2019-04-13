@@ -1,9 +1,11 @@
+![Ergodox home image](https://i.imgur.com/Mjh2KLV.jpg)
+
 # Case design
 https://www.thingiverse.com/thing:2533064
 
 # Requirements
 - Windows users must install WinCompose for the french characters. https://github.com/samhocevar/wincompose
-- Macos needs to switch keyboard language to Unicode Hex Input to get all of the french accents in the macos layout.
+- Macos users must switch keyboard language to Unicode Hex Input in order to use the french accents.
 
 # Layout
 - For layout specifications, check keymap.c
@@ -11,7 +13,7 @@ https://www.thingiverse.com/thing:2533064
 
 
 # Compile layout
-To compile the keymap layout, refer to: https://cloud.docker.com/u/elaurendeau/repository/docker/elaurendeau/ergodox_compiler
+To compile the keymap layout, refer to: https://github.com/elaurendeau/docker_image_ergodox_compiler
 
 # Flash layout
 To flash the layout, refer to https://s3.ca-central-1.amazonaws.com/ergodox-ez-configurator/executables/teensy.exe
