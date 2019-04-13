@@ -9,7 +9,7 @@ https://www.thingiverse.com/thing:2533064
 
 # Layout
 - For layout specifications, check keymap.c
-- Layout 1-4 is generated while using ergodox EZ configurator: https://configure.ergodox-ez.com/layouts/E0ND/latest/0
+- Layout 1-4 is generated while using ergodox EZ configurator: https://configure.ergodox-ez.com/layouts/AylB/latest/0
 
 
 # Compile layout
